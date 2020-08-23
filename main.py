@@ -1,5 +1,5 @@
 from discord.ext import commands
-TOKEN = "NzQ2MzkzMTYyMTkyMjU3MTk2.Xz_qzQ.VOrh0naN59P2Mun-KL36_aEmfbA"
+TOKEN = "************************"
 bot = commands.Bot(command_prefix='!')
 cogs = ["cogs.events", "cogs.search"]
 for cog in cogs:
