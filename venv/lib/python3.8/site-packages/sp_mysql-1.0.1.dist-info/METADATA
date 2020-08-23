@@ -1,0 +1,20 @@
+Metadata-Version: 2.1
+Name: sp-mysql
+Version: 1.0.1
+Summary: A Python package to work with mysql database.
+Home-page: https://github.com/suryaprakash0831/sp_mysql
+Author: Suryaprakash S
+Author-email: suryaprakash0831@gmail.com
+License: MIT
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Description-Content-Type: text/markdown
+Requires-Dist: requests
+
+# sp_mysql
+This includes module for working with mysql database.
+# Usage
+This modlue will take some parameters from user so that you can minimize some lines of code and also you need not to remember all the queries all time it as simple that even you don't know the original syntax you can work with some of the queries of mysql.
+
